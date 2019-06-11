@@ -1,14 +1,7 @@
 # PR-2
 
-Titanic ML
+Titanic: Machine Learning from Disaster
 
 Estadisticas y probabilidad de supervivencia en el titanic
 
-Autora
-Eugenia Pérez Pons
-
-Este software es parte de la Práctica 2 de la asignatura: "Tipologia y ciclo de vida de los datos".
-Asignatura: Tipologia y ciclo de vida de los datos.
-Master de Data Science.
-Universitat Oberta of Catalunya.
-Consultora: Mireia Calvo Gonzalez
+Este repositorio incluye las diferentes estadisticas de supervivencia del Titanic. En la carpeta de Code también se pueden observar las probabilidades de supervivencia en función de unos parámetros.
